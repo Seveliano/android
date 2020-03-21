@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorRed">#ff0000</color>
+    <color name="colorTabHint">#ffa59c</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorTextHint">#b1b1b1</color>
+    <color name="colorBtnBlue">#037d72</color>
+    <color name="colorBottomNavigationBar">#e9eeee</color>
+    <color name="colorNavBarItemTint">#647272</color>
+    <color name="colorGoogleButton">#9C27B0</color>
+    <color name="colorSkye">#e5f4f1</color>
+    <color name="colorTextSkye">#237664</color>
+</resources>

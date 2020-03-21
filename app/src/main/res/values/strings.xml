@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MD_App</string>
+    <string name="activity_splash_background">Hospital</string>
+    <string name="activity_login_btn_login">Login</string>
+    <string name="activity_login_btn_google">Sign in with Google</string>
+    <string name="activity_sign_up_btn_signUp">Sign Up</string>
+</resources>
