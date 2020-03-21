@@ -1,6 +1,6 @@
 # Android Firebase (Java)
 
-This is the android(java) with Firebase.
+This is a android(java) project with Firebase.
 
 Main implemented functions:
 - Firebase Auth with email and pasword
